@@ -57,7 +57,7 @@ header {
 }
 
 
-/********BARRE DE RECHERCHE*********/
+/********SEARCHBAR*********/
 
 p {
     padding-top: 10px;
@@ -118,7 +118,7 @@ p {
     display: none;
 }
 
-/*******FILTRES**********/
+/*******FILTERS**********/
 
 .filter {
     margin-top: 20px;
@@ -194,7 +194,7 @@ p {
     margin: 0;
 }
 
-/*******HEBERGEMENTS ET POPULAIRES***********/
+/*******LODGING ET POPULARITY***********/
 
 .herbergements-populaires {
     display: flex;
@@ -321,7 +321,7 @@ p {
 }
 
 
-/*******ACTIVITES*************/
+/*******ACTIVITIES*************/
 
 
 #activites {
